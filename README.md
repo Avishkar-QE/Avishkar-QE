@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source testing projects and automation tools  
 - 📫 How to reach me: [avishkarsorate95@gmail.com]
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact:I am type of traveler who enjoys trying local foods
+- ⚡ About me :I am type of traveler who enjoys trying local foods
 
 <!---
 Avishkar-QE/Avishkar-QE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
